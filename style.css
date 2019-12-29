@@ -1,0 +1,75 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+body {
+    background: white url(http://www.htmldog.com/images/bg.gif) repeat-y top right;
+}
+
+p {
+    font: 14px/1.5 "Times New Roman", times, serif;
+    padding: 30px 10px;
+    border: 1px black solid;
+    border-width: 1px 5px 5px 1px;
+    border-color: red green blue yellow;
+    margin: 10px 50px;
+}
+
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+h1 {
+    color: #ffc;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+h3 {
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: #900;
+    font-style: italic;
+ 
+}
+
+table {
+    background-color: #ccc;
+    float: right;
+    width: 200px;
+}
